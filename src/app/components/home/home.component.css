@@ -1,0 +1,15 @@
+.espaco-top{
+    margin-top: 50px;
+}
+
+.col{
+    max-width: 300px;
+}
+
+.row{
+    justify-content: center;
+}
+
+img{
+    border-radius: 5px;
+}
