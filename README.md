@@ -1,4 +1,8 @@
-# Atividade02
+# Atividade01
+
+npm init 
+npm i Bootstrap@4.6.0
+npm i jquery
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.7.
 
