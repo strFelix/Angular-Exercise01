@@ -1,6 +1,7 @@
 # Atividade01
 
 npm init <br>
+npm i Bootstrap
 npm i Bootstrap@4.6.0 <br>
 npm i jquery <br>
 
